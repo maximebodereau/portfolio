@@ -3,7 +3,7 @@
 
 # <div class="center">User Experience work at Québec</div>
 
-*ou le petit Précis graphique d'une approche d'expérience utilisateur*
+*ou petit Précis graphique d'une approche expérience utilisateur*
 
 <small>since janvier 2014, by maxime bodereau</small>
 
